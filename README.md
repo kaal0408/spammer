@@ -1,1 +1,0 @@
-# LUCIFER-SPAM-BOT
