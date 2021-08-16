@@ -1,7 +1,7 @@
 {
-  "name": " VISA-SPAM BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT.",
-  "logo": "https://telegra.ph/file/6d6e75f8ac7b22faf6eb3.jpg",
+  "name": " LUCIFER-SPAM BOT",
+  "description": "A POWERFULL AND FAST SPAM BOT By @Lucifer_support_group.",
+  "logo": "https://telegra.ph/file/73373552e9217e010e853.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -145,7 +145,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "804329190",
         "required": true
       }
   },
